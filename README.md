@@ -4,6 +4,9 @@
  Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!
 
 
+    ABAIXO SEGUE MINHA EVOLUÇÃO EM HTML5 E CSS3 COM ALGUNS EXERCÍCIOS PRONTOS E ORGANIZADOS:
+
+
 
 <a href="https://guijo3.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
 
