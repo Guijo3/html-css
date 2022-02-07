@@ -48,9 +48,9 @@
 
 <a href="https://guijo3.github.io/html-css/exercicios/ex018/font02.html">Executar o exercício 018</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 019</a>
+<a href="https://guijo3.github.io/html-css/exercicios/ex019/seletor01.html">Executar o exercício 019</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/ex020/há.html">Executar o exercício 020</a>
+<a href="https://guijo3.github.io/html-css/exercicios/ex020/houver.html">Executar o exercício 020</a>
 
 <a href="https://guijo3.github.io/html-css/exercicios/ex020/pseudoclasse.html">Executar o exercício 020</a>
 
@@ -64,29 +64,27 @@
 
 <a href="https://guijo3.github.io/html-css/exercicios/extags/index.html">extags</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/exe0perfil/index.html">Exe0perfil</a>
-
 <a href="https://guijo3.github.io/html-css/exercicios/extestfelas/index.html">extestfelas</a>
 
 <a href="https://guijo3.github.io/html-css/exercicios/extestfelas/pag002.html">extestfelas</a>
 
 <a href="https://guijo3.github.io/html-css/exercicios/extestfelas/trux/pag003.html">extestfelas</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/novovídeo/index.html">novo vídeo</a>
+<a href="https://guijo3.github.io/html-css/exercicios/novo%20video/index.html">novo video</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/perfilBonitina/index.html">perfil Bonitina</a>
+<a href="https://guijo3.github.io/html-css/exercicios/perfilBonitin/index.html">perfil Bonitin</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/tagsBonitina/index.html">tagsBonitina</a>
+<a href="https://guijo3.github.io/html-css/exercicios/tagsBonitin/index.html">tagsBonitin</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvídeos/index.html">desafiossitecomvídeos</a>
+<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvideos/index.html">desafiossitecomvideos</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvídeos/pag002.html">desafiossitecomvídeos</a>
+<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvideos/pag002.html">desafiossitecomvideos</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvídeos/pag003.html">desafiossitecomvídeos</a>
+<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvideos/pag003.html">desafiossitecomvideos</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvídeos/pag004.html">desafiossitecomvídeos</a>
+<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvideos/pag004.html">desafiossitecomvideos</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvídeos/pag005.html">desafiossitecomvídeos</a>
+<a href="https://guijo3.github.io/html-css/exercicios/desafiossitecomvideos/pag005.html">desafiossitecomvideos</a>
 
 <a href="https://guijo3.github.io/html-css/exercicios/Canil/index.html">Canil</a>
 
