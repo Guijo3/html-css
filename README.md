@@ -86,8 +86,6 @@
 
 <a href="https://guijo3.github.io/html-css/exercicios/desafiositecomvideos/pag005.html">desafiositecomvideos</a>
 
-<a href="https://guijo3.github.io/html-css/exercicios/Canil/index.html">Canil</a>
-
 <a href="https://guijo3.github.io/html-css/exercicios/desafios/desafio010/testresponsividade.html">desafios/desafio010 teste de responsividade</a>
 
 <a href="https://guijo3.github.io/html-css/exercicios/desafios/desafio010/android.html">desafios/desafio010 primeiro site simples</a>
