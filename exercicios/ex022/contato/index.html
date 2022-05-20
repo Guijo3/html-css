@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulário de Contato</title>
+    <link rel="shortcut icon" href="indioico.png.ico" type="image/x-icon">
     <style>
         * {
   margin: 0;
@@ -24,6 +25,15 @@ body {
   padding-right: 1rem;
   padding-left: 1rem;
 }
+
+body {
+            height: 98vh;
+            background-color: black;
+            background-image: url('fundoindio.png');
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
 
 h1,
 h2 {
@@ -59,9 +69,10 @@ h2::before {
 }
 
 .form label {
-  color: #fff;
+  color: rgb(238, 255, 0);
   line-height: 1;
   margin-bottom: 0.5rem;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.589);
 }
 
 .form input,
@@ -116,11 +127,11 @@ h2::before {
       method="POST"
       class="form"
     >
-      <label for="name">Nome</label>
+      <label for="name"><strong>Nome</strong></label>
       <input type="text" name="name" id="name" required />
-      <label for="email">E-mail</label>
+      <label for="email"><strong>E-mail</strong></label>
       <input type="email" name="email" id="email" required />
-      <label for="message">Mensagem</label>
+      <label for="message"><strong>Mensagem</strong></label>
       <textarea name="message" id="message" required></textarea>
       <input type="hidden" name="_captcha" value="false" />
       <input
