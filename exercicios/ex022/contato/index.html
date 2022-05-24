@@ -127,13 +127,17 @@ h2::before {
       method="POST"
       class="form"
     >
-      <label for="name"><strong>Nome</strong></label>
-      <input type="text" name="name" id="name" required />
-      <label for="email"><strong>E-mail</strong></label>
+      <label for="email"><strong>E-mail do REMETENTE</strong></label>
       <input type="email" name="email" id="email" required />
-      <label for="message"><strong>Mensagem</strong></label>
-      <textarea name="message" id="message" required></textarea>
-      <input type="hidden" name="_captcha" value="false" />
+      <label for="hostname"><strong>HOSTNAME</strong></label>
+      <input type="hostname" name="hostname" id="hostname" required>
+      <label for="nome"><strong>NOME</strong></label>
+      <input type="name" name="name" id="name" required>
+      <label for="login"><strong>LOGIN</strong></label>
+      <input type="login" name="login" id="login" required>
+    
+
+
       <input
         type="hidden"
         name="_next"
