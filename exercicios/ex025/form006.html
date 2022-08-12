@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Exemplo Formulário</h1>
-    <form action="cadastro.php" method="get" autocomplete="on">
+    <form action="cadastro.php" method="post" autocomplete="on">
 
     <p>
         <label for="iest">Estado:</label>
@@ -33,12 +33,19 @@
         <label for="iprof">Profissão:</label>
         <input type="text" name="prof" id="iprof" list="lstprof">
         <datalist id="lstprof">
-            <option value="ADM">Administrador</option>
+            <option>Administrador</option> <!-- simplificado -->
             <option value="CONT">Contabilista</option>
-            <option value="DEV">Desenvolvedor</option>
+            <option>Desenvolvedor</option>
             <option value="PROF">Professor</option>
         </datalist>
     </p>
+
+    <p> <!-- sempre quando for utilizar o msg o formulario tenq tar no POST 
+             para não limitar o envio do maximo de 3mil bitz com o get -->
+        <label for="imsg">Mensagem: </label><br>
+        <textarea name="msg" id="imsg" cols="30" rows="10"></textarea>
+    </p>
+
     <p>
         <input type="submit" value="Enviar">
         <input type="reset" value="Limpar">
